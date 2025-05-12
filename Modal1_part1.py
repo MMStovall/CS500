@@ -16,7 +16,7 @@ def subtractNumber(num1,num2):
     return num1 - num2 
 
 getNumbers()
-print('When you ', num1,'and', num2, 'you get',addNumbers(num1,num2))
+print('When you add', num1,'and', num2, 'you get',addNumbers(num1,num2))
 print('When you subtract', num1,'and', num2, 'you get',subtractNumber(num1,num2))
 
 
